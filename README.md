@@ -19,3 +19,13 @@ O usuário pode solicitar a exclusão de seus dados a qualquer momento, conforme
 
 Contato:
 E-mail: abrucezekaua@gmail.com
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exclusão de Dados do Usuário – ProofAds
+
+O usuário pode solicitar a exclusão de seus dados pessoais e informações associadas ao uso do ProofAds enviando um e-mail para:
+
+contato@seusite.com
+
+A solicitação será processada em até 7 dias úteis, com a exclusão completa dos dados armazenados.
